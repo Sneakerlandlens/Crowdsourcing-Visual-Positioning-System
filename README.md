@@ -1,6 +1,9 @@
 # Introduction
 In the future, there will be more and more cameras around us, especially after AR glasses become popular. Using these huge amount of visual information to build a virtual parallel world is a wonderful dream. The goal of this project is to provide vision-based positioning capabilities for this parallel world.
 The specific goal in the near future is to establish a location system based on the map which is formed by feature points. And all data used to create map are from mobile phone level sensors (monocular camera, imu, gps). And provide a positioning service that give position with gps cordinate system.
+If we wish to imagine a world where persistent AR layers augment the world we see through our futuristic glasses, lenses or neural interfaces we must also imagine a technology that allows every device to agree, with millimetre precision, where things are in the world. GPS can't get us there. 
+
+
 
 # Main Content
 Video data collection and LocalMap creation on the mobile phone.
