@@ -8,3 +8,6 @@ Image data collection and feature point extraction. These means the system suppo
 After uploading the LocalMap or image feature points to the server, the server merges the data.
 The merging process includes the culling of map to maintain trackable map size.
 New data that is not matched by the map will be stored, waiting for matching with future data.
+
+# Algorthim Flow
+![image](https://user-images.githubusercontent.com/120680301/207954353-63ed66b7-715d-437f-a09b-f9425128bf1e.png)
